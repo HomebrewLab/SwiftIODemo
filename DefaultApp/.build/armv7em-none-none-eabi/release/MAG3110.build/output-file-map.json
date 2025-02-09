@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MAG3110.build/MAG3110.d",
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MAG3110.build/MAG3110.o",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MAG3110.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MAG3110/MAG3110.swift": {
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MAG3110.build/MAG3110.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MAG3110.build/MAG3110~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MAG3110.build/MAG3110.swiftdeps"
+  }
+}

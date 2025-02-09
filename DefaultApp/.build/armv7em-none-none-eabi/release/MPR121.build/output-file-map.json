@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MPR121.build/MPR121.d",
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MPR121.build/MPR121.o",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MPR121.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MPR121/MPR121.swift": {
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MPR121.build/MPR121.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MPR121.build/MPR121~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MPR121.build/MPR121.swiftdeps"
+  }
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "a3c94ff47272b12bb28dee74e971662cde9d11db4934557814b27551480ff636"
+build_start_time: [1737965983, 48843000]
+build_end_time: [1737965986, 319673000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/PCF8523/PCF8523.swift": [1737965963, 780908955]

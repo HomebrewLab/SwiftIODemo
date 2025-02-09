@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MCP9808.build/MCP9808.d",
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MCP9808.build/MCP9808.o",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MCP9808.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MCP9808/MCP9808.swift": {
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MCP9808.build/MCP9808.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MCP9808.build/MCP9808~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/MCP9808.build/MCP9808.swiftdeps"
+  }
+}

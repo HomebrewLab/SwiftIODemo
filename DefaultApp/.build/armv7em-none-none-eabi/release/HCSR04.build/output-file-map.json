@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/HCSR04.build/HCSR04.d",
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/HCSR04.build/HCSR04.o",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/HCSR04.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/HCSR04/HCSR04.swift": {
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/HCSR04.build/HCSR04.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/HCSR04.build/HCSR04~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/HCSR04.build/HCSR04.swiftdeps"
+  }
+}

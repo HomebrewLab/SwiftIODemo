@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/GT911.d",
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/GT911.o",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/GT911/GT911.swift": {
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/GT911.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/GT911~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/GT911.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/GT911/TouchInfo.swift": {
+    "object": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/TouchInfo.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/TouchInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/armv7em-none-none-eabi/release/GT911.build/TouchInfo.swiftdeps"
+  }
+}

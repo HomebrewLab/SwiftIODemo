@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "4.0",
+  "targetTriples": {
+    "armv7em-none-none-eabi": {
+      "sdkRootPath": "/Users/yuhaochen/Developer/mm-sdk",
+      "toolsetPaths": [
+        "toolset.json"
+      ],
+      "swiftResourcesPath": "/Library/Developer/Toolchains/swift-latest.xctoolchain/usr/lib/swift",
+      "swiftStaticResourcesPath": "/Library/Developer/Toolchains/swift-latest.xctoolchain/usr/lib/swift_static"
+    }
+  }
+}

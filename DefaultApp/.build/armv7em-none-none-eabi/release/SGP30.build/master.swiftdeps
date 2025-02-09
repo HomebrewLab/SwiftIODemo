@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "e1c220d24c1eec4add52c2610e8cb571b6ca9c9749433003391d7469e075dd4a"
+build_start_time: [1737965982, 736041000]
+build_end_time: [1737965985, 990627000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/SGP30/SGP30.swift": [1737965963, 781207705]

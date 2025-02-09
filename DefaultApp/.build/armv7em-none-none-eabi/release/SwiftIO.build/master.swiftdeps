@@ -1,0 +1,23 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "0070d1c72e54af01120954626f7fe4b9e8e1325fbdbb9986d7ecfc8396de90fd"
+build_start_time: [1737965970, 617983000]
+build_end_time: [1737965975, 996929000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/AnalogIn.swift": [1737965963, 930244261]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/BoardId.swift": [1737965963, 930345761]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/Counter.swift": [1737965963, 930579427]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/DigitalIn.swift": [1737965963, 930723719]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/DigitalInOut.swift": [1737965963, 930829761]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/DigitalOut.swift": [1737965963, 930937719]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/Errno.swift": [1737965963, 931057344]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/Ethernet.swift": [1737965963, 931178011]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/FileDescriptor.swift": [1737965963, 931271094]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/I2C.swift": [1737965963, 931440594]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/I2S.swift": [1737965963, 931567386]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/KernelTiming.swift": [1737965963, 931646886]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/PWMOut.swift": [1737965963, 931750053]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/SPI.swift": [1737965963, 931856886]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/Thread.swift": [1737965963, 933503719]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/Timer.swift": [1737965963, 933608053]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/UART.swift": [1737965963, 933716303]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/SwiftIO/Utils.swift": [1737965963, 933808886]

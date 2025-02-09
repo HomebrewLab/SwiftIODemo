@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "c982785c7302c331711e5f129466808bf4d59ae9459124c865e5eb9a44dfa32d"
+build_start_time: [1737965987, 279288000]
+build_end_time: [1737965990, 829405000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/LCD1602/LCD1602.swift": [1737965963, 779153997]

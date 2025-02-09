@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "c9c53837178ecc8387eba1c9ab83f244f0187ad144b57e313d18bddf79bb08cf"
+build_start_time: [1737965980, 137810000]
+build_end_time: [1737965984, 219424000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/TCS34725/TCS34725.swift": [1737965963, 781792205]

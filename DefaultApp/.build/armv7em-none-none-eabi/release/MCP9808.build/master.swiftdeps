@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "a4215fa6404c31c3989d89b8e2671d078b04a0dc69606b5fbce804f7c721b0a5"
+build_start_time: [1737965984, 275570000]
+build_end_time: [1737965987, 920554000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MCP9808/MCP9808.swift": [1737965963, 780051538]

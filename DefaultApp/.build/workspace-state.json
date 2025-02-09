@@ -1,0 +1,78 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "cfreetype",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/madmachineio/CFreeType.git",
+          "name" : "CFreeType"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "169a741f0e452bf29be2346d321a52da4fb9a0da",
+            "version" : "2.13.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "CFreeType"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "madboards",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/madmachineio/MadBoards.git",
+          "name" : "MadBoards"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "develop",
+            "revision" : "462f2955528697f11983e083143e5f8df5c21e46"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "MadBoards"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "maddrivers",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/madmachineio/MadDrivers.git",
+          "name" : "MadDrivers"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "develop",
+            "revision" : "46c0fb01f19a252bfe176ef7442d6eb3a041c76a"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "MadDrivers"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swiftio",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/madmachineio/SwiftIO.git",
+          "name" : "SwiftIO"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "develop",
+            "revision" : "e09f84bcb158bd45e6edb181de9393aaf73d006b"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SwiftIO"
+      }
+    ]
+  },
+  "version" : 6
+}

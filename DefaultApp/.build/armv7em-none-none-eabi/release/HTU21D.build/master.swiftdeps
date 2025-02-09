@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "ed3da499e935f13946c7d8d8bcb3d1f3007f476025e1565ffef1b71d623f82cc"
+build_start_time: [1737965988, 149362000]
+build_end_time: [1737965991, 306790000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/HTU21D/HTU21D.swift": [1737965963, 778885122]

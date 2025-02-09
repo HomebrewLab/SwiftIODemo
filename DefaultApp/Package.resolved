@@ -3,7 +3,7 @@
     {
       "identity" : "cfreetype",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/madmachineio/CFreeType",
+      "location" : "https://github.com/madmachineio/CFreeType.git",
       "state" : {
         "revision" : "169a741f0e452bf29be2346d321a52da4fb9a0da",
         "version" : "2.13.2"
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/madmachineio/MadBoards.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "2f461aceacd111a3ee0805adb7ef949f7ae097d4"
+        "branch" : "develop",
+        "revision" : "462f2955528697f11983e083143e5f8df5c21e46"
       }
     },
     {
@@ -23,17 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/madmachineio/MadDrivers.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "c15ba283916dd316b71eb06052d9939fd6ee82a7"
-      }
-    },
-    {
-      "identity" : "swift-numerics",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-numerics",
-      "state" : {
-        "revision" : "0a5bc04095a675662cf24757cc0640aa2204253b",
-        "version" : "1.0.2"
+        "branch" : "develop",
+        "revision" : "46c0fb01f19a252bfe176ef7442d6eb3a041c76a"
       }
     },
     {
@@ -41,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/madmachineio/SwiftIO.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "82479a14673702b8766b34e10cce82d1374c4f3f"
+        "branch" : "develop",
+        "revision" : "e09f84bcb158bd45e6edb181de9393aaf73d006b"
       }
     }
   ],

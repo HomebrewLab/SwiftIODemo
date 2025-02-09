@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "bb18296a026b258ad7c9a3ba617ee56976e123d6c021e69970518ea6fc116197"
+build_start_time: [1737965988, 177377000]
+build_end_time: [1737965991, 416306000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/GT911/GT911.swift": [1737965963, 778305330]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/GT911/TouchInfo.swift": [1737965963, 778523913]

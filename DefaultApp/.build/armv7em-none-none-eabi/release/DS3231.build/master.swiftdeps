@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "363b4437a53af77b9ba52670048df5ad3b2f89d334208dc556866608ad4f2a20"
+build_start_time: [1737965989, 46351000]
+build_end_time: [1737965992, 98086000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/DS3231/DS3231.swift": [1737965963, 777785122]

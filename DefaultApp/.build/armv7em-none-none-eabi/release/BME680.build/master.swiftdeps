@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "93493a66f7d73a2f90660f248c5a06a3724e71b4bf8c1aa3fff5797ca3a7a7cd"
+build_start_time: [1737965976, 225063000]
+build_end_time: [1737965983, 149394000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/BME680/BME680.swift": [1737965963, 777224955]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "19385c2e519d0923a7d025e7c099bbae3ce41cd470b6ea571bcff2e8345d1b52"
+build_start_time: [1737965984, 947434000]
+build_end_time: [1737965987, 908742000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MAX6675/MAX6675.swift": [1737965963, 779806538]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "ab9e5a5ba4263648b6904fb9021f065d68544e8e8deff7c599f5c2545edfff4a"
+build_start_time: [1737965990, 623130000]
+build_end_time: [1737965993, 496580000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/ADT7410/ADT7410.swift": [1737965963, 776082205]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/ADT7410/Configuration.swift": [1737965963, 776193622]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/ADT7410/Untilitis.swift": [1737965963, 776267413]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "0e1f772309f357c9a4a67d566fb069d0039a96513f82a11294bc3ff44f0cffac"
+build_start_time: [1737965976, 276422000]
+build_end_time: [1737965980, 164380000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/APDS9960/APDS9960.swift": [1737965963, 776817788]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "2088686abbc555db124a54a815e850e34ce576ac749c8d2c065533fab8b18115"
+build_start_time: [1737965979, 619243000]
+build_end_time: [1737965982, 785611000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/VEML7700/VEML7700.swift": [1737965963, 782667580]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "212d65b3b532e0285ca7cf20cafd31c9b36e4d1e360466dd7d96bf3bba241327"
+build_start_time: [1737965983, 464750000]
+build_end_time: [1737965987, 51090000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MPU6050/MPU6050.swift": [1737965963, 780528539]

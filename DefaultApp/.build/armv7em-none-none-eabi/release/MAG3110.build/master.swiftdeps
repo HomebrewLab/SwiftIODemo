@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "f01883e14bb5085de89f2cdf7e7bdd14ef591b9bc874a7ceb0a847cc8170116a"
+build_start_time: [1737965985, 396142000]
+build_end_time: [1737965989, 537290000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MAG3110/MAG3110.swift": [1737965963, 779614747]

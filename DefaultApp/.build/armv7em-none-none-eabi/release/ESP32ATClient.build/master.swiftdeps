@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "d513f7f1c2804d888ae53104178d8d89503bbd96dc9117775c1fb1f9ad65944b"
+build_start_time: [1737965988, 231039000]
+build_end_time: [1737965994, 171050000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/ESP32ATClient/ESP32ATClient.swift": [1737965963, 777926288]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/ESP32ATClient/ESP32Utiles.swift": [1737965963, 778001330]

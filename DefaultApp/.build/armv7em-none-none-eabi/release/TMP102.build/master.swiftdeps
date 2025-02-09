@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "523ed73ccd60b650d7d098a591eea42e3734abeaa91b03d9929fac336d815179"
+build_start_time: [1737965979, 976930000]
+build_end_time: [1737965983, 640216000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/TMP102/Configuration.swift": [1737965963, 781893164]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/TMP102/Enums.swift": [1737965963, 781965164]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/TMP102/TMP102.swift": [1737965963, 782160955]

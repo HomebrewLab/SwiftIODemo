@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "c6599d3f86a14cbe0803a066cd3f287e75e00513a4f7486c47f9ec6798635b90"
+build_start_time: [1737965994, 339261000]
+build_end_time: [1737965995, 19031000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/Sources/DefaultApp/DefaultApp.swift": !dirty [1711683284, 0]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/Sources/DefaultApp/I2CThread.swift": !dirty [1711682866, 0]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/Sources/DefaultApp/IOThread.swift": !dirty [1711682866, 0]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/Sources/DefaultApp/SoundThread.swift": !dirty [1711682866, 0]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/Sources/DefaultApp/Speaker.swift": !dirty [1711682866, 0]

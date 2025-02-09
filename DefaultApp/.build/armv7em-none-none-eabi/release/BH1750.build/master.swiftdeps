@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "346cb240f0a2f16428031df9c171fdd015eb4db7c7bda0e5fe258502db15224b"
+build_start_time: [1737965976, 221703000]
+build_end_time: [1737965979, 394280000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/BH1750/BH1750.swift": [1737965963, 777096830]

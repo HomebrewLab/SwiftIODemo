@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "1fa5f70c68689ed1abe32c03c0ef8a1e355c5b46284831ddbf1828cc64c1049b"
+build_start_time: [1737965986, 367082000]
+build_end_time: [1737965990, 184187000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/LTR390/LTR390.swift": [1737965963, 779489872]

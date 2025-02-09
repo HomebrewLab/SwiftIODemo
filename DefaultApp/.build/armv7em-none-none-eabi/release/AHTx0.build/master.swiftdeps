@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "a773e0e7ff5e2c1062909275c5b2dbac37044026aa1c8aee8ce9b75628725a63"
+build_start_time: [1737965989, 826364000]
+build_end_time: [1737965992, 476402000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/AHTx0/AHTx0.swift": [1737965963, 776551205]

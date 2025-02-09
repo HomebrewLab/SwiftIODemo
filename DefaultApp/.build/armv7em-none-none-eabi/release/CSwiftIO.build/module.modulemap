@@ -1,0 +1,4 @@
+module CSwiftIO {
+    umbrella "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/SwiftIO/Sources/CSwiftIO/include"
+    export *
+}

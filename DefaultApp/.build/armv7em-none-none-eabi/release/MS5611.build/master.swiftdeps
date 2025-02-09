@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "631964b58edd37e16d424212f1caaa4aa677bceab66f885f179c9362e1a66401"
+build_start_time: [1737965983, 140685000]
+build_end_time: [1737965987, 131479000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MS5611/MS5611.swift": [1737965963, 780774914]

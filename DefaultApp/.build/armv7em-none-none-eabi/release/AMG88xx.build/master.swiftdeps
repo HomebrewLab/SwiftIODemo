@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "1015d6d0d154459e49c29e8fe3698e4061528fb02d4bb1c61ec160081d419aac"
+build_start_time: [1737965976, 284607000]
+build_end_time: [1737965979, 589147000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/AMG88xx/AMG88xx.swift": [1737965963, 776680247]

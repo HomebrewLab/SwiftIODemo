@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "3322ea40c1884918c1953b5c639365de1b4eacee74f1aecbe9f3f8e7e689dc65"
+build_start_time: [1737965976, 289975000]
+build_end_time: [1737965981, 126805000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/BMP280/BMP280.swift": [1737965963, 777511330]

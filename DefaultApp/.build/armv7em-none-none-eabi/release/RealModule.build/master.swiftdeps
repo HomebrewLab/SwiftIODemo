@@ -1,0 +1,15 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "e227019565e67ea8be6acb1f90e7f669d35fef5cd565edbbff95f61d530b1c5d"
+build_start_time: [1737965410, 85575000]
+build_end_time: [1737965410, 710044000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/AlgebraicField.swift": !dirty [1737965408, 967083986]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/ApproximateEquality.swift": !dirty [1737965408, 967209569]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/AugmentedArithmetic.swift": !dirty [1737965408, 967304736]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/Double+Real.swift": !dirty [1737965408, 967492194]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/ElementaryFunctions.swift": !dirty [1737965408, 967596402]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/Float+Real.swift": !dirty [1737965408, 967694194]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/Float16+Real.swift": !dirty [1737965408, 967803027]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/Float80+Real.swift": !dirty [1737965408, 967924027]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/Real.swift": !dirty [1737965408, 968201986]
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/swift-numerics/Sources/RealModule/RealFunctions.swift": !dirty [1737965408, 968330361]

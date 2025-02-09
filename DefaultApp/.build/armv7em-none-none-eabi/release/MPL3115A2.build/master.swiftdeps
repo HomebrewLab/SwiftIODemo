@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "4b3bef55fc9ff727a0dd39f494c8686a1998c27abfcfee511b013970ab9d931c"
+build_start_time: [1737965983, 605526000]
+build_end_time: [1737965987, 916752000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/MPL3115A2/MPL3115A2.swift": [1737965963, 780293705]

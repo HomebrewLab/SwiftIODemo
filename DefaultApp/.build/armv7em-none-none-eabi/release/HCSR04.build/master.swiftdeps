@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "04ba9df842e4e0c0c41e9a7df9a0b88f180df85cc85ad2cc4664e3bc15223b86"
+build_start_time: [1737965988, 149362000]
+build_end_time: [1737965990, 541771000]
+inputs:
+  "/Users/yuhaochen/Developer/SwiftIODemo/DefaultApp/.build/checkouts/MadDrivers/Sources/HCSR04/HCSR04.swift": [1737965963, 778647372]
