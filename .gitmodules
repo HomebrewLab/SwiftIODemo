@@ -1,0 +1,10 @@
+[submodule "MadGraphics"]
+	path = MadGraphics
+[submodule "DefaultApp/.build/checkouts/SwiftIO"]
+	path = DefaultApp/.build/checkouts/SwiftIO
+[submodule "DefaultApp/.build/checkouts/MadDrivers"]
+	path = DefaultApp/.build/checkouts/MadDrivers
+[submodule "DefaultApp/.build/checkouts/MadBoards"]
+	path = DefaultApp/.build/checkouts/MadBoards
+[submodule "DefaultApp/.build/checkouts/CFreeType"]
+	path = DefaultApp/.build/checkouts/CFreeType
